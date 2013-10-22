@@ -1,0 +1,2 @@
+hi in file2
+code should be here
